@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Breweries</string>
+
+    <string name="phone_txt">Phone: %1$d</string>
+    <string name="website_txt">Website: %1$s</string>
+    <string name="name_brewery_txt">Name brewery</string>
+    <string name="country_str">Country: %1$s</string>
+    <string name="state_str">State: %1$s</string>
+    <string name="city_str">City: %1$s</string>
+    <string name="street_str">Street: %1$s</string>
+    <string name="search_txt">Search...</string>
+    <string name="error_network">Network Error!</string>
+</resources>
